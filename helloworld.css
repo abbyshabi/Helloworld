@@ -1,0 +1,16 @@
+h1{
+	color: black;
+	text-align: center;
+}
+body{
+	background-image: url("ocean.jpeg");
+	background-size: 2000px; 
+	background-position: center;
+	background-filter:alpha(opacity=0.5);
+	
+}
+img{
+	width: 350px;
+	height:100px;
+	border: 0
+	}
